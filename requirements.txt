@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+openai
+pydantic[dotenv]
+SQLAlchemy
+asyncpg
+streamlit
+requests
